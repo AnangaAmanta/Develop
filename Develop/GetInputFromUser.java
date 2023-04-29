@@ -6,6 +6,7 @@ public class GetInputFromUser {
 		int a;
 		String b;
 		float c;
+            String bb; //added from BB branch
 		
 		Scanner sc = new Scanner(System.in);
 		
